@@ -1,0 +1,25 @@
+{
+  "name": "single-spa-jspm",
+  "version": "1.0.0",
+  "description": "Helpers for making jspm applications compatible with single-spa",
+  "main": "src/single-spa-jspm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldenning/single-spa-jspm.git"
+  },
+  "keywords": [
+    "single",
+    "spa",
+    "jspm",
+    "loader"
+  ],
+  "author": "Joel Denning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeldenning/single-spa-jspm/issues"
+  },
+  "homepage": "https://github.com/joeldenning/single-spa-jspm#readme"
+}
