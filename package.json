@@ -1,10 +1,11 @@
 {
   "name": "single-spa-jspm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helpers for making jspm applications compatible with single-spa",
   "main": "src/single-spa-jspm.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "format": "es6",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
