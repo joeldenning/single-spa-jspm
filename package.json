@@ -1,6 +1,6 @@
 {
   "name": "single-spa-jspm",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Helpers for making jspm applications compatible with single-spa",
   "main": "src/single-spa-jspm.js",
   "format": "es6",
